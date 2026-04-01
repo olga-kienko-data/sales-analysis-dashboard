@@ -137,4 +137,20 @@ https://docs.google.com/spreadsheets/d/1TKPClxcZ4FdwzcPSK6-QDfTt7clozwVxk0r_kjSK
 The analysis shows that business performance is driven by a limited number of high-performing product categories and regions.
 Focusing on these areas, along with margin optimization and channel development, can significantly improve overall profitability.
 
+---
+
+## 📸 Additional Analysis
+
+### 🧠 ABC Analysis
+![ABC](abc_analysis.png)
+
+### 🛒 Sales Channels
+![Channels](sales_channels.png)
+
+### 📈 Sales Trends
+![Trends](sales_trend.png)
+
+### 🚚 Shipping Analysis
+![Shipping](shipping_analysis.png)
+
 
