@@ -118,7 +118,7 @@ The analysis includes:
 
 ##  Dashboard Preview
 
-(Images will be added below)
+https://docs.google.com/spreadsheets/d/1TKPClxcZ4FdwzcPSK6-QDfTt7clozwVxk0r_kjSKkJ4/edit?gid=41314205#gid=41314205
 
 ---
 
