@@ -15,6 +15,18 @@ The analysis includes:
 
 ---
 
+##  Dataset
+
+The dataset used in this project is included in the repository:
+
+- `data/events.csv` — sales transactions  
+- `data/products.csv` — product categories  
+- `data/countries.csv` — country and region mapping  
+
+These files were used for data cleaning, transformation and analysis in Google Sheets.
+
+---
+
 ##  Key Metrics
 
 * Total Orders: 1330
