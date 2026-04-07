@@ -151,18 +151,18 @@ Focusing on these areas, along with margin optimization and channel development,
 
 ---
 
-## 📸 Additional Analysis
+##  Additional Analysis
 
-### 🧠 ABC Analysis
+###  ABC Analysis
 ![ABC](abc_analysis.png)
 
-### 🛒 Sales Channels
+###  Sales Channels
 ![Channels](sales_channels.png)
 
-### 📈 Sales Trends
+###  Sales Trends
 ![Trends](sales_trend.png)
 
-### 🚚 Shipping Analysis
+###  Shipping Analysis
 ![Shipping](shipping_analysis.png)
 
 
